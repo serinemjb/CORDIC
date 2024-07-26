@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7a100tcsg324-3" LaunchTime="1685540644">
+  <File Type="BITSTR-BMM" Name="processeur_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="processeur_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="processeur_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="processeur_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="processeur.tcl"/>
+  <File Type="OPT-TIMING" Name="processeur_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="processeur_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="processeur_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="processeur_reports.tcl"/>
+  <File Type="OPT-DRC" Name="processeur_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="processeur.hwdef"/>
+  <File Type="PWROPT-DCP" Name="processeur_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="processeur_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="processeur_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="processeur_placed.dcp"/>
+  <File Type="PLACE-IO" Name="processeur_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="processeur_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="processeur_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="processeur_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="processeur_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="processeur_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="processeur_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="processeur_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="processeur_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="processeur.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="processeur_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="processeur_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="processeur_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="processeur.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="processeur_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="processeur_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="processeur_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="processeur_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="processeur_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="processeur_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="processeur_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="processeur.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="processeur_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="processeur_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="processeur_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="processeur_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="processeur_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="processeur_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="processeur_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="processeur_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="processeur_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="processeur_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="processeur_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="processeur_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="processeur_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="processeur_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="processeur_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="processeur_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="processeur_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="processeur_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="processeur_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="processeur_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="processeur_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="processeur.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="processeur_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="processeur.rbt"/>
+  <File Type="BITSTR-NKY" Name="processeur.nky"/>
+  <File Type="PDI-FILE" Name="processeur.pdi"/>
+  <File Type="RCFI_FILE" Name="processeur.rcfi"/>
+  <File Type="CFI_FILE" Name="processeur.cfi"/>
+  <File Type="RNPI_FILE" Name="processeur.rnpi"/>
+  <File Type="NPI_FILE" Name="processeur.npi"/>
+  <File Type="RBD_FILE" Name="processeur.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="processeur.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="processeur.sysdef"/>
+  <File Type="BG-BGN" Name="processeur.bgn"/>
+  <File Type="BG-DRC" Name="processeur.drc"/>
+  <File Type="RDI-RDI" Name="processeur.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PSRCDIR/sources_1/new/CU.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/DP.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/processeur.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/shifter.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="processeur"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/myXDC.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/myXDC.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
